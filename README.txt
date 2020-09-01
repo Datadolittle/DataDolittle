@@ -15,7 +15,7 @@ and an assortment of pre-styled elements. So, pretty much what you were expectin
 - It uses Sass* a lot more intelligently, thanks in part to several new mixins
   and functions I've been working on (as well as a few by @HugoGiraudel).
 
-  (* = still entirely optional if you prefer vanilla CSS :)
+  (* = still entirely optional if you prefer vanilla CSS )
 
 - A ton of other stuff.
 
