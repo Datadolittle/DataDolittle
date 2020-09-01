@@ -33,7 +33,7 @@ Credits:
 		Unsplash (unsplash.com)
 
 	Icons:
-		Font Awesome (fontawesome.io)
+		Font Awesome 5 (fontawesome.io)
 
 	Other:
 		jQuery (jquery.com)
