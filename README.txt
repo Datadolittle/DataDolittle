@@ -19,8 +19,7 @@ and an assortment of pre-styled elements. So, pretty much what you were expectin
 
 - A ton of other stuff.
 
-In short, Spectral's the culmination of several new things I'm working on/trying out,
-so please, let me know what you think :)
+In short, Spectral's the culmination of several new things I'm working on/trying out.
 
 
 AJ
